@@ -1,5 +1,5 @@
 overwrite: true
-schema: https://api.thegraph.com/subgraphs/name/quantumlyy/eip1155-subgraph-matic
+schema: https://graph.rinkeby.boba.network:8000/subgraphs/name/tapioca/marketplace
 generates:
   ./generated/ts/api.d.ts:
     plugins:

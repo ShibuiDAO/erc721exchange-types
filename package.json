@@ -1,5 +1,5 @@
 {
-  "name": "@tapioca-market/erc721exchange-types",
+  "name": "@shibuidao/erc721exchange-types",
   "author": "Nejc Drobnič <yo@quantumly.dev> (https://quantumly.dev)",
   "version": "1.0.1",
   "description": "",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TapiocaMarket/erc721exchange-types.git"
+    "url": "git+https://github.com/ShibuiDAO/erc721exchange-types.git"
   },
   "bugs": {
-    "url": "https://github.com/TapiocaMarket/erc721exchange-types/issues"
+    "url": "https://github.com/ShibuiDAO/erc721exchange-types/issues"
   },
-  "homepage": "https://github.com/TapiocaMarket/erc721exchange-types#readme",
+  "homepage": "https://github.com/ShibuiDAO/erc721exchange-types#readme",
   "files": [
     "generated/ts/api.d.ts",
     "generated/ts/api.graphql"

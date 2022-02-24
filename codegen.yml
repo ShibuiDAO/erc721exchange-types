@@ -1,5 +1,5 @@
 overwrite: true
-schema: https://graph.rinkeby.boba.network:8000/subgraphs/name/tapioca/marketplace
+schema: https://graph.mainnet.boba.network:8000/subgraphs/name/shibuidao/nft-exchange
 generates:
   ./generated/ts/api.d.ts:
     plugins:
